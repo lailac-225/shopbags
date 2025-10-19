@@ -3,7 +3,7 @@
     "id": 1,
     "nom": "Sac à main PRADA cuir noir Élégance",
     "prix": 12000,
-    "image": "/shopbags/images/sac1.png",
+    "image": "/images/sac1.png",
     "description": "Un sac à main en cuir véritable, chic et intemporel. Parfait pour accompagner vos tenues professionnelles  avec une touche d’élégance discrète.",
     "categorie":"accueil"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "nom": "Sac cabas MICHAEL KORS beige Soleil",
     "prix": 11000,
-    "image": "/shopbags/images/sac2.jpg",
+    "image": "/images/sac2.jpg",
     "description": "Léger et spacieux, ce cabas en toile beige et simili cuir vous accompagne partout. Idéal pour une journée shopping ou une escapade le week-end.",
     "categorie":"accueil"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "nom": "Sac bandoulière CHANEL rouge Passion",
     "prix": 13000,
-    "image": "/shopbags/images/sac3.png",
+    "image": "/images/sac3.png",
     "description": "Ce sac bandoulière au design moderne apporte une touche audacieuse à votre look. Sa bandoulière réglable assure un confort parfait toute la journée.",
     "categorie":"accueil"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "nom": "Sac seau camel Bohème",
     "prix": 6000,
-    "image": "/shopbags/images/sac4.jpg",
+    "image": "/images/sac4.jpg",
     "description": "Un sac seau souple au style bohème, en simili cuir camel. Il s’adapte à tous les styles et offre une belle contenance pour vos essentiels.",
     "categorie":"accueil"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "nom": "Sac à dos chic nude",
     "prix": 8000,
-    "image": "/shopbags/images/sac5.jpg",
+    "image": "/images/sac5.jpg",
     "description": "Un sac à dos féminin, pratique et raffiné, parfait pour les femmes actives. Sa teinte nude douce se marie avec toutes les tenues.",
     "categorie":"accueil"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "nom": "Pochette soirée argentée Glam",
     "prix": 12000,
-    "image": "/shopbags/images/sac6.jpg",
+    "image": "/images/sac6.jpg",
     "description": "Brillez en soirée avec cette pochette argentée ornée de reflets métallisés. Assez spacieuse pour contenir vos indispensables avec style.",
     "categorie":"accueil"
   },
@@ -53,35 +53,35 @@
     "id": 11,
     "nom": "Sac à main beige doux automne",
     "prix": 12000,
-    "image": "/shopbags/images/sac11.png",
+    "image": "/images/sac11.png",
     "categorie": "automne"
   },
   {
     "id": 12,
     "nom": "Sac en cuir bordeaux passion",
     "prix": 14000,
-    "image": "/shopbags/images/sac12.png",
+    "image": "/images/sac12.png",
     "categorie": "automne"
   },
   {
     "id": 13,
     "nom": "Sac cabas taupe cocoon",
     "prix": 7000,
-    "image": "/shopbags/images/sac13.png",
+    "image": "/images/sac13.png",
     "categorie": "automne"
   },
   {
     "id": 14,
     "nom": "Mini sac terracotta chic",
     "prix": 9500,
-    "image": "/shopbags/images/sac14.png",
+    "image": "/images/sac14.png",
     "categorie": "automne"
   },
   {
     "id": 15,
     "nom": "Sac bandoulière brun vintage",
     "prix": 6000,
-    "image": "/shopbags/images/sac15.png",
+    "image": "/images/sac15.png",
     "categorie": "automne"
   },
   
@@ -89,7 +89,7 @@
     "id": 30,
     "nom": "Sac à main PRADA cuir noir Élégance",
     "prix": 12000,
-    "image": "/shopbags/images/sac1.png",
+    "image": "/images/sac1.png",
     "description": "Un sac à main en cuir véritable, chic et intemporel. Parfait pour accompagner vos tenues professionnelles avec une touche d’élégance discrète.",
     "categorie": "sacs-a-main"
   },
@@ -97,7 +97,7 @@
     "id": 2,
     "nom": "Sac à main beige doux automne",
     "prix": 12000,
-    "image": "/shopbags/images/sac11.png",
+    "image": "/images/sac11.png",
     "description": "Inspiré des couleurs chaleureuses de l’automne, ce sac beige apporte douceur et élégance à votre quotidien.",
     "categorie": "sacs-a-main"
   },
@@ -105,7 +105,7 @@
     "id": 3,
     "nom": "Mini sac à main terracotta chic",
     "prix": 9500,
-    "image": "/shopbags/images/sac14.png",
+    "image": "/images/sac14.png",
     "description": "Un mini sac au charme irrésistible, avec sa teinte terracotta qui apporte une touche de fraîcheur à toutes vos tenues.",
     "categorie": "sacs-a-main"
   },
@@ -113,7 +113,7 @@
     "id": 4,
     "nom": "Sac à main rose pastel",
     "prix": 10000,
-    "image": "/shopbags/images/sac16.png",
+    "image": "/images/sac16.png",
     "description": "Sac féminin et doux avec une teinte rose pastel pour un look frais.",
     "categorie": "sacs-a-main"
   },
@@ -121,7 +121,7 @@
     "id": 5,
     "nom": "Sac à main LOUIS VUITTON fleurie",
     "prix": 13000,
-    "image": "/shopbags/images/sac17.jpg",
+    "image": "/images/sac17.jpg",
     "description": "Un sac à main de luxe en forme carrée blanc apportant de l'élégance à toutes vos tenues.",
     "categorie": "sacs-a-main"
   },
@@ -129,7 +129,7 @@
     "id": 6,
     "nom": "Sac cabas MICHAEL KORS beige Soleil",
     "prix": 11000,
-    "image": "/shopbags/images/sac2.jpg",
+    "image": "/images/sac2.jpg",
     "description": "Léger et spacieux, ce cabas en toile beige et simili cuir vous accompagne partout. Idéal pour une journée shopping ou une escapade le week-end.",
     "categorie": "cabas"
   },
@@ -137,7 +137,7 @@
     "id": 7,
     "nom": "Sac cabas taupe cocoon",
     "prix": 7000,
-    "image": "/shopbags/images/sac13.png",
+    "image": "/images/sac13.png",
     "description": "Pratique, stylé et raffiné, ce cabas s’adapte à tous vos moments. Un essentiel intemporel pour un look chic et décontracté à la fois.",
     "categorie": "cabas"
   },
@@ -145,7 +145,7 @@
     "id": 8,
     "nom": "Sac cabas COACH blanc",
     "prix": 8000,
-    "image": "/shopbags/images/sac18.jpg",
+    "image": "/images/sac18.jpg",
     "description": "Grand sac cabas en toile blanc, idéal pour le travail ou vos sorties.",
     "categorie": "cabas"
   },
@@ -153,7 +153,7 @@
     "id": 9,
     "nom": "Sac cabas LACOSTE double face bleu ciel-bleu foncé",
     "prix": 8500,
-    "image": "/shopbags/images/sac19.jpg",
+    "image": "/images/sac19.jpg",
     "description": "Le sac Lacoste double face : un indispensable élégant et fonctionnel pour la femme active.",
     "categorie": "cabas"
   },
@@ -161,7 +161,7 @@
     "id": 10,
     "nom": "Sac cabas LONGCHAMP bleu foncé",
     "prix": 7000,
-    "image": "/shopbags/images/sac20.png",
+    "image": "/images/sac20.png",
     "description": "Léger, pratique et résolument chic, le cabas Longchamp bleu foncé sublime votre look.",
     "categorie": "cabas"
   },
@@ -169,7 +169,7 @@
     "id": 11,
     "nom": "Sac à dos chic nude",
     "prix": 8000,
-    "image": "/shopbags/images/sac5.jpg",
+    "image": "/images/sac5.jpg",
     "description": "Un sac à dos féminin, pratique et raffiné, parfait pour les femmes actives.",
     "categorie": "a-dos"
   },
@@ -177,7 +177,7 @@
     "id": 12,
     "nom": "Sac à dos urbain GUCCI",
     "prix": 6000,
-    "image": "/shopbags/images/sac21.png",
+    "image": "/images/sac21.png",
     "description": "Sac à dos élégant et pratique, parfait pour le travail ou les voyages.",
     "categorie": "a-dos"
   },
@@ -185,7 +185,7 @@
     "id": 13,
     "nom": "Sac à dos cuir caramel",
     "prix": 7500,
-    "image": "/shopbags/images/sac22.png",
+    "image": "/images/sac22.png",
     "description": "Un sac à dos moderne et raffiné, fabriqué à partir de cuir de qualité.",
     "categorie": "a-dos"
   },
@@ -193,7 +193,7 @@
     "id": 14,
     "nom": "Sac à dos en laine original",
     "prix": 7500,
-    "image": "/shopbags/images/sac23.png",
+    "image": "/images/sac23.png",
     "description": "Un sac à dos en laine au toucher soyeux, alliant confort et élégance.",
     "categorie": "a-dos"
   },
@@ -201,7 +201,7 @@
     "id": 15,
     "nom": "Sac à dos EASTPAK tendance pour femme",
     "prix": 8000,
-    "image": "/shopbags/images/sac24.png",
+    "image": "/images/sac24.png",
     "description": "Un sac à dos tendance, résistant et élégant, l’allié parfait de vos aventures quotidiennes.",
     "categorie": "a-dos"
   },
@@ -209,7 +209,7 @@
     "id": 16,
     "nom": "Pochette soirée argentée Glam",
     "prix": 12000,
-    "image": "/shopbags/images/sac6.jpg",
+    "image": "/images/sac6.jpg",
     "description": "Brillez en soirée avec cette pochette argentée ornée de reflets métallisés.",
     "categorie": "pochette"
   },
@@ -217,7 +217,7 @@
     "id": 17,
     "nom": "Pochette de soirée dorée Chic",
     "prix": 8000,
-    "image": "/shopbags/images/sac28.png",
+    "image": "/images/sac28.png",
     "description": "Pochette glamour dorée, parfaite pour les grandes occasions.",
     "categorie": "pochette"
   },
@@ -225,7 +225,7 @@
     "id": 18,
     "nom": "Pochette de soirée rouge passion",
     "prix": 6500,
-    "image": "/shopbags/images/sac29.png",
+    "image": "/images/sac29.png",
     "description": "Pochette glamour rouge passion pour sublimer vos tenues de soirée.",
     "categorie": "pochette"
   },
@@ -233,7 +233,7 @@
     "id": 19,
     "nom": "Pochette argenté chic",
     "prix": 9000,
-    "image": "/shopbags/images/sac27.png",
+    "image": "/images/sac27.png",
     "description": "Pochette chic argentée avec un détail doré, le meilleur allié de vos looks de soirée.",
     "categorie": "pochette"
   },
@@ -241,7 +241,7 @@
     "id": 20,
     "nom": "Pochette marron pailleté",
     "prix": 9000,
-    "image": "/shopbags/images/sac26.png",
+    "image": "/images/sac26.png",
     "description": "Pochette marron pailletée de chez ShopBags, idéale pour les grandes occasions.",
     "categorie": "pochette"
   },
@@ -249,7 +249,7 @@
     "id": 21,
     "nom": "Sac bandoulière CHANEL rouge Passion",
     "prix": 13000,
-    "image": "/shopbags/images/sac3.png",
+    "image": "/images/sac3.png",
     "description": "Ce sac bandoulière moderne apporte une touche audacieuse à votre look.",
     "categorie": "bandoulière"
   },
@@ -257,7 +257,7 @@
     "id": 22,
     "nom": "Sac en cuir bordeaux passion",
     "prix": 14000,
-    "image": "/shopbags/images/sac12.png",
+    "image": "/images/sac12.png",
     "description": "Sa teinte bordeaux intense et son design épuré font de ce sac un must chic.",
     "categorie": "bandoulière"
   },
@@ -265,7 +265,7 @@
     "id": 23,
     "nom": "Sac bandoulière brun vintage",
     "prix": 6000,
-    "image": "/shopbags/images/sac15.png",
+    "image": "/images/sac15.png",
     "description": "Un sac en cuir vieilli alliant élégance et praticité pour un look bohème chic.",
     "categorie": "bandoulière"
   },
@@ -273,7 +273,7 @@
     "id": 24,
     "nom": "Sac bandoulière LOUIS VUITTON beige",
     "prix": 8000,
-    "image": "/shopbags/images/sac30.jpg",
+    "image": "/images/sac30.jpg",
     "description": "Léger, raffiné et sophistiqué, ce sac Louis Vuitton beige allie confort et prestige.",
     "categorie": "bandoulière"
   },
@@ -281,7 +281,7 @@
     "id": 25,
     "nom": "Sac bandoulière JACQUEMUS bleu foncé",
     "prix": 8000,
-    "image": "/shopbags/images/sac31.png",
+    "image": "/images/sac31.png",
     "description": "Élégant et compact, ce sac Jacquemus bleu foncé ajoute une touche moderne à votre style.",
     "categorie": "bandoulière"
   },
@@ -291,7 +291,7 @@
     "prix": 8000,
     "categorie": "sacs-de-sport",
     "description": "Sac ADIDAS spacieux et léger pour accompagner vos séances de sport.",
-    "image": "/shopbags/images/sac32.png"
+    "image": "/images/sac32.png"
   },
   {
     "id": 42,
@@ -299,7 +299,7 @@
     "prix": 7000,
     "categorie": "sacs-de-sport",
     "description": "Sac de sport féminin, pratique et stylé avec plusieurs compartiments.",
-    "image": "/shopbags/images/sac33.png"
+    "image": "/images/sac33.png"
   },
 {
     "id": 43,
@@ -307,7 +307,7 @@
     "prix": 7500,
     "categorie": "sacs-de-sport",
     "description": "Sac de sport féminin, pratique et stylé pour tos vos activités sportifs .",
-    "image": "/shopbags/images/sac34.png"
+    "image": "/images/sac34.png"
   },
 {
     "id": 44,
@@ -315,7 +315,7 @@
     "prix": 7000,
     "categorie": "sacs-de-sport",
     "description": "Élégant, léger et résistant — le sac PUMA noir moyen, votre allié sportif au style affirmé.",
-    "image": "/shopbags/images/sac35.png"
+    "image": "/images/sac35.png"
   },
   {
     "id": 45,
@@ -323,7 +323,7 @@
     "prix": 7000,
     "categorie": "sacs-de-sport",
     "description": "Chic et fonctionnel, ce sac de sport DUFFLE allie praticité et élégance. Idéal pour la salle, les voyages ou le quotidien.",
-    "image": "°shopbags/images/sac36.png"
+    "image": "/images/sac36.png"
   },
   {
     "id": 46,
@@ -331,7 +331,7 @@
     "prix": 4000,
     "categorie": "tote bags",
     "description": "Un tote bag léger et écologique, décoré de motifs floraux colorés.",
-    "image": "/shopbags/images/sac37.png"
+    "image": "/images/sac37.png"
   },
   {
     "id": 47,
@@ -339,7 +339,7 @@
     "prix": 3000,
     "categorie": "tote bags",
     "description": "Sac tote minimaliste en coton biologique, solide et élégant.",
-    "image": "/shopbags/images/sac38.png"
+    "image": "/images/sac38.png"
   },
   {
     "id": 48,
@@ -347,7 +347,7 @@
     "prix": 4000,
     "categorie": "tote bags",
     "description": "Léger et tendance, le tote bag Summer Vibes est l’accessoire parfait pour vos journées ensoleillées et idéale pour vos sorties à la plage.",
-    "image": "/shopbags/images/sac42.png"
+    "image": "/images/sac42.png"
   },
 {
     "id": 49,
@@ -355,13 +355,13 @@
     "prix": 3500,
     "categorie": "tote bags",
     "description": "Original et tendance, ce tote bag rouge à dessin apporte une note d’art et de caractère à vos tenues, l'idéale pour vos cours , vos petites balades , ou sorties entre filles .",
-    "image": "/shopbags/images/sac40.jpg"
+    "image": "/images/sac40.jpg"
   },
   {
     "id": 50,
     "nom": "Sac seau camel Bohème",
     "prix": 6000,
-    "image": "/shopbags/images/sac4.jpg",
+    "image": "images/sac4.jpg",
     "description": "Un sac seau souple au style bohème, en simili cuir camel. Il s’adapte à tous les styles et offre une belle contenance pour vos essentiels.",
     "categorie":"tote bags"
   }
